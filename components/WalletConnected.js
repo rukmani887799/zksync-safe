@@ -29,7 +29,6 @@ const onboard = Onboard({
     name: "zk sync safe",
     icon: "https://user-images.githubusercontent.com/101476931/224553007-1d6a9a43-8834-47a5-a578-9b763d91259e.jpeg",
     description: "A multi sig wallet on the zk sync era testnet",
-    ]
   }
 });
 
